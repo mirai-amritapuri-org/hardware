@@ -1,7 +1,9 @@
-# Hardware
+# Hardware (VAJRA)
 
-This repository documents hardware designs, interfaces, and
-integration details for MIRAI robotic platforms.
+This repository covers the complete hardware and electronics
+foundation of MIRAI robotic systems.
 
-It includes schematics, wiring references, and hardware-level
-considerations used in system development.
+Scope includes power distribution, regulation, protection,
+sensor integration, motor wiring, and hardware reliability.
+The focus is on delivering stable, calibrated hardware
+interfaces for higher-level control and autonomy.
